@@ -71,7 +71,7 @@ A execução irá imprimir os resultados das duas fases diretamente no console:
 O relatório detalhado, com metodologia, análise de complexidade, tabelas e gráficos, foi produzido utilizando LaTeX.
 
 * **Link para o Projeto no Overleaf:**
-    \[ Chttps://www.overleaf.com/4842146327fnmszzmjkhcc#2ff648 \]
+    \[ https://www.overleaf.com/4842146327fnmszzmjkhcc#2ff648 \]
 * **Arquivo Fonte:** `relatorio/relatorio.tex`
 
 ---
